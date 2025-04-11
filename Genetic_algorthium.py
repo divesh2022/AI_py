@@ -1,3 +1,5 @@
+# Write a program to implement Genetic algorithm. 
+
 import random
 def fitness_function(number):
     return sum(int(digit) for digit in str(number))
