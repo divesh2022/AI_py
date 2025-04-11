@@ -1,3 +1,5 @@
+# Write a program to implement depth-first search algorithm. 
+
 def depth_first_search(edges, vertices, num_edges, num_vertices, start, stop):
     stack = []
     visited = set()
