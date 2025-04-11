@@ -1,3 +1,5 @@
+#  Write a program to implement Tower of Hanoi.
+
 def tower_of_hanoi(n, source, target, auxiliary):
     steps = 0
     if n == 1:
