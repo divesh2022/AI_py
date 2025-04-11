@@ -1,3 +1,5 @@
+# Write a program to implement the Hill Climbing algorithm.
+
 import math
 def euclidean_distance(node1, node2):
     return math.sqrt((node2[0] - node1[0]) ** 2 + (node2[1] - node1[1]) ** 2)
