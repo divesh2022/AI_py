@@ -1,3 +1,5 @@
+# Write a program to implement breadth-first search algorithm. 
+
 def breadth_first_search(edges, vertices, num_edges, num_vertices, start, stop):
     queue = []
     visited = set()
