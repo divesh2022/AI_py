@@ -1,3 +1,5 @@
+# Write a program to implement four queen problem. 
+
 def print_solution(board):
     for row in board:
         print(" ".join("Q" if col else "." for col in row))
